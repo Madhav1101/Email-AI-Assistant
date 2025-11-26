@@ -11,7 +11,7 @@ Output :
 
 Front-End: ![FrontEndReply](https://github.com/user-attachments/assets/420aaa8a-22dc-4b56-ade1-b499605a474a)
 
-Backend: ![AIReply](https://github.com/user-attachments/assets/7516e863-c2cf-4edf-a878-a77e7a1b39ae)
+Extension added on browser: ![AIReply](https://github.com/user-attachments/assets/7516e863-c2cf-4edf-a878-a77e7a1b39ae)
 
 ---
 
